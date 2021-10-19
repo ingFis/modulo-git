@@ -16,3 +16,10 @@ git branch nome - Cria novo histórico a partir do master
 git checkout nome - para trocar de branch
 
 se commitar em outra branch e depois voltar para a master ela não terá reconhecido 
+
+3 - 
+    git diff - ver diferença nos arquivos
+    git diff --name-only - ver apenas os nomes dos arquivos alterados
+    git diff nome_arquivo - ver apenas um arquivo
+    git checkout HEAD -- nome_arquivo - para voltar alterações de um arquivo
+
