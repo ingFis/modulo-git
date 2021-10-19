@@ -6,14 +6,14 @@ Solução:
 
 Repositório - Projeto no GIT
 
-Configurações
+1 - Configurações
     git config --global user.name
     git config --global user.email
     git config --global core.editor
     git config --list
 
 
-Iniciando um repositório
+2 - Iniciando um repositório
 
 git init - Inicializar Repositório GIT
 
@@ -22,6 +22,14 @@ Versão principal: Master
 
 commit - salvar alterações no git
 
-README - Instruções/descrição/comentários do projeto
+3 - README - Instruções/descrição/comentários do projeto
 
-git add -A - Para adcionar ao container
+4 - 
+git add -A - Para adcionar ao container para enviar para o git
+git status - ver status do projeto - Arquivos não add no container/arquivos modificados etc
+git commit - Para enviar o container para o git
+
+git log - Verifica todos os commits
+
+
+
