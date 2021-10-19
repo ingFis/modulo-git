@@ -23,3 +23,10 @@ se commitar em outra branch e depois voltar para a master ela não terá reconhe
     git diff nome_arquivo - ver apenas um arquivo
     git checkout HEAD -- nome_arquivo - para voltar alterações de um arquivo
 
+repositório remoto - repositório local na nuvem
+
+ssh-keygen -t rsa -b 4096 -C "ingridprog98@gmail.com" para criar chave
+
+add o repositório remoto
+    git remote add origin https://github.com/ingFis/modulo-git.git
+git remote - para ver 

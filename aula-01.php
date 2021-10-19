@@ -11,6 +11,7 @@ Repositório - Projeto no GIT
     git config --global user.email
     git config --global core.editor
     git config --list
+    git config --global --replace-all user.email "new@mail.com"
 
 
 2 - Iniciando um repositório
